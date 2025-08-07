@@ -1,5 +1,6 @@
-
 import tkinter as tk
+
+
 # vars
 root = tk.Tk()
 operation = "none"
